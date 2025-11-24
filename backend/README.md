@@ -1,0 +1,1 @@
+This is the studying paractical for backend development. beginner
